@@ -3,9 +3,9 @@
 #### Descripcion: Proyecto UX Design que rediseña la visual y usabilidad de la plataforma de WernuWork, en pro de un aumento en el uso de la misma y de aumentar la visualizacion y consulta por parte de los usuarios de la plataforma radar. hecho para WenuWork Junio 2018.
 #### Desarrollado para [WenuWork](https://wenuwork.cl/)
 #### Tecnología usada: Marvel app, Tecnicas de ideación, arquetipos de persona, journey map, research user, entrevistas, encuestas.
-![WenuWork]![image](https://user-images.githubusercontent.com/32284582/42528499-a22710aa-8449-11e8-89ab-4416a9866616.png)
+![WenuWork]![image](![image](https://user-images.githubusercontent.com/32284582/42529463-8c5b7542-844c-11e8-914d-7066c9172a3c.png))
 
-#### Ver Prototipo aqui (https://marvelapp.com/38f12d9)
+[ver prototipo aqui](https://marvelapp.com/38f12d9)
 
 #### Tecnologia Usada: Marvel app (prototipado) 
 
@@ -19,19 +19,19 @@ enuWork es una plataforma que te permite medir y gestionar el consumo y eficienc
 #### Proceso de Investigacion y Analisis de los datos
 
 #### Arquetipos de Usuarios
-<img src="images/user1.png"><img src="images/user2.png"><img src="images/user3.png">
+![image](https://user-images.githubusercontent.com/32284582/42529566-d3a0006c-844c-11e8-8bf9-58a9140061cf.png)
+![image](https://user-images.githubusercontent.com/32284582/42529626-05565ea8-844d-11e8-81c3-5f6bd41668cc.png)
+![image](https://user-images.githubusercontent.com/32284582/42529799-6a3b87bc-844d-11e8-8cfb-72d0fe841161.png)
+
 
 #### Journey Map Usuarios
-<img src="images/journey.png">
+
+![image](https://user-images.githubusercontent.com/32284582/42529844-88703afc-844d-11e8-86bc-e528ddd646a7.png)
+
 
 #### Canvas Proposition Value
-<img src="images/canvas-value.png">
+![image](https://user-images.githubusercontent.com/32284582/42529881-a8a2752e-844d-11e8-95be-1ee3c276fe68.png)
 
-## Encuesta
-<img src="images/cine.JPG">
-<img src="images/comer.JPG">
-<img src="images/encuesta.JPG">
-<img src="images/movil.JPG">
 
 ## Definiendo Problematica
 
@@ -39,19 +39,23 @@ WenuWork es una plataforma que te permite medir y gestionar el consumo y eficien
 En resumen es un sistema que no es muy amigable con el usuario y se requiere que se mejore la usabilidad y visual de la plataforma. 
 
 
-<img src="images/actual.png">
+![image](https://user-images.githubusercontent.com/32284582/42529930-c68419d0-844d-11e8-987e-6fce47e35816.png)
 
 ## Diseñado Wireframe
 
 #### Primeros Prototipos en papel
 
-<img src="images/prototipos-paper.png">
+
+![image](https://user-images.githubusercontent.com/32284582/42529963-e2feabac-844d-11e8-90eb-1dae06e58784.png)
+
+
+#### El futuro de la solución
+
+Una plataforma en constante retroalimentación con el usuario y evolución, para que le entregue cada día más herramientas y kpi´s importantes para la toma de decisiones y acciones que  ayuden al usuario  a mejorar su  ahorro energético el cual supone también uno económico, ademas de unificar las dos plataformas actuales en una sola, para agilizar la consulta al usuario.
 
 #### Prototipo
 
-<img src="images/Prototipo.png">
-
-#### Ver Prototipo aqui (https://marvelapp.com/38f12d9)
+[ver prototipo aqui](https://marvelapp.com/38f12d9)
 
 
 
